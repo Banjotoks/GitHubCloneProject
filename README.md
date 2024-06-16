@@ -1,1 +1,1 @@
-This is the description of my repo
+This repository is for demonstrating branching, merging, and conflict resolution.
